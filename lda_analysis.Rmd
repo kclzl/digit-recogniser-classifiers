@@ -1,0 +1,22 @@
+---
+title: "lda_project"
+author: "Kyler Cheong"
+date: "2023-03-10"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# LDA Project, R-Codes
+
+Here, I will do some analysis in R about the LDA specifically.
+
+**Outline**
+
+1. BoxM test
+2. MVN test
+3. LDA Classifier
+4. LDA Results Analysis
+ 
